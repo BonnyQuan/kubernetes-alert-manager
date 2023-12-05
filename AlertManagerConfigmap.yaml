@@ -24,9 +24,9 @@ data:
     receivers:
     - name: alert-emailer
       email_configs:
-      - to: demo@devopscube.com
+      - to: quanyi306@gmail.com
         send_resolved: false
-        from: from-email@email.com
+        from: quanyi306@gmail.com
         smarthost: smtp.eample.com:25
         require_tls: false
     - name: slack_demo
