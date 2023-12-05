@@ -32,4 +32,4 @@ data:
     - name: slack_demo
       slack_configs:
       - api_url: https://hooks.slack.com/services/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
-        channel: '#devopscube-demo'
+        channel: '#project3'
